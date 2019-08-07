@@ -1,28 +1,4 @@
-
-# CLASS07 - FINAL PROJECT
-
-Main repository for the final project for Class 07
-
-## The Customer - The Fabric of My Life(FABRIC) 
-
-https://ctr.hum.ku.dk/research-programmes-and-projects/the-fabric-of-my-life/
-
-## Translation guide
-
-https://gist.github.com/samyarmodabber/ab1ec4e985fe44562434a85cee9000c1
-
-
-## List of tasks/features 
-
-https://docs.google.com/spreadsheets/d/1uptu9b_4GzH52MoLK-Z-qQityuPArtsAlwipuziIklo/edit#gid=0
-
-
-## Class Daily Agenda
-
-12:00 - 13:30 - ...
-13:30 - 14:00 - ...
-14:00 - 14:30 - Lunch
-14:30 - 16:00 - ...
+# Fullstack boilerplate
 
 ## Process
 
